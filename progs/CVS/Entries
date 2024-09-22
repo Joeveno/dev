@@ -1,0 +1,120 @@
+/armor.qc/1.2/Tue Aug 07 16:18:28 2001//
+/armor.txt/1.1/Sun Oct 08 20:36:08 2000//
+/b_g_key.qc/1.2/Tue Aug 07 16:18:28 2001//
+/b_s_key.qc/1.2/Tue Aug 07 16:18:28 2001//
+/backpack.qc/1.2/Tue Aug 07 16:18:28 2001//
+/backpack.txt/1.1/Sun Oct 08 20:36:08 2000//
+/biosuit.txt/1.1/Sun Oct 08 20:36:08 2000//
+/bolt.qc/1.2/Tue Aug 07 16:18:28 2001//
+/bolt2.qc/1.2/Tue Aug 07 16:18:28 2001//
+/bolt3.qc/1.2/Tue Aug 07 16:18:28 2001//
+/dog.qc/1.1/Wed Aug 15 20:01:44 2001//
+/dog.txt/1.1/Sun Oct 08 20:36:08 2000//
+/dogg.mdo/1.1/Sun Oct 08 20:36:08 2000/-kb/
+/doghead.mdo/1.1/Sun Oct 08 20:36:08 2000/-kb/
+/end1.qc/1.2/Tue Aug 07 16:18:28 2001//
+/end2.qc/1.2/Tue Aug 07 16:18:28 2001//
+/end3.qc/1.2/Tue Aug 07 16:18:28 2001//
+/end4.qc/1.2/Tue Aug 07 16:18:28 2001//
+/enforcer.mdo/1.1/Tue Jun 05 20:04:10 2001/-kb/
+/enforcer.qc/1.1/Wed Aug 15 20:01:44 2001//
+/eyes.qc/1.1/Wed Aug 15 02:01:30 2001//
+/eyes.txt/1.1/Sun Oct 08 20:36:08 2000//
+/flame.qc/1.1/Wed Aug 15 02:01:30 2001//
+/flame2.qc/1.1/Wed Aug 15 02:01:30 2001//
+/flame2.txt/1.1/Sun Oct 08 20:36:08 2000//
+/g_light.qc/1.1/Wed Aug 15 02:27:30 2001//
+/g_nail.qc/1.1/Wed Aug 15 02:27:30 2001//
+/g_nail2.qc/1.1/Wed Aug 15 02:27:30 2001//
+/g_rock.qc/1.1/Wed Aug 15 02:27:30 2001//
+/g_rock2.qc/1.1/Wed Aug 15 02:27:30 2001//
+/g_shot.qc/1.1/Wed Aug 15 02:27:30 2001//
+/gib1.qc/1.2/Tue Aug 07 16:18:28 2001//
+/gib2.qc/1.2/Tue Aug 07 16:18:28 2001//
+/gib3.mdo/1.1/Thu Aug 02 16:44:54 2001/-kb/
+/gib3.qc/1.2/Tue Aug 07 16:18:28 2001//
+/gpl_gibs.txt/1.1/Sun Oct 08 20:36:08 2000//
+/gpl_player.txt/1.2/Tue May 15 19:25:10 2001//
+/gpl_weapons.txt/1.1/Sun Oct 08 20:36:08 2000//
+/grenade.qc/1.2/Tue Aug 07 16:18:28 2001//
+/h_dog.qc/1.1/Wed Aug 15 03:04:08 2001//
+/h_guard.qc/1.1/Wed Aug 15 03:04:08 2001//
+/h_knight.qc/1.1/Wed Aug 15 03:04:08 2001//
+/h_player.qc/1.1/Wed Aug 15 03:04:08 2001//
+/h_wizard.qc/1.1/Wed Aug 15 03:04:08 2001//
+/h_zombie.qc/1.1/Wed Aug 15 03:04:08 2001//
+/invisibl.qc/1.2/Tue Aug 07 16:18:28 2001//
+/invisibl.txt/1.1/Sun Oct 08 20:36:10 2000//
+/invulner.qc/1.2/Tue Aug 07 16:18:28 2001//
+/invulner.txt/1.1/Sun Oct 08 20:36:10 2000//
+/keys.txt/1.1/Sun Oct 08 20:36:10 2000//
+/knight.qc/1.1/Wed Aug 15 20:01:44 2001//
+/knight.txt/1.1/Fri Oct 27 09:12:54 2000//
+/lamp.txt/1.1/Sun Oct 08 20:36:10 2000//
+/lamp2.ms3d/1.1/Sun Oct 08 20:36:10 2000/-kb/
+/laser.qc/1.1/Wed Aug 15 02:01:30 2001//
+/lavaball.qc/1.2/Tue Aug 07 16:18:28 2001//
+/lavaball.txt/1.1/Sun Oct 08 20:36:10 2000//
+/m_g_key.qc/1.2/Tue Aug 07 16:18:28 2001//
+/m_s_key.qc/1.2/Tue Aug 07 16:18:28 2001//
+/missile.qc/1.2/Tue Aug 07 16:18:28 2001//
+/ms3d_player.qc/1.1/Thu Aug 02 16:44:54 2001//
+/newscragg.mdo/1.1/Sun Oct 08 20:36:10 2000/-kb/
+/player.qc/1.3/Wed Aug 15 20:01:44 2001//
+/player16.ms3d/1.1/Sun Oct 08 20:36:10 2000/-kb/
+/player28.ms3d/1.1/Tue May 15 19:25:12 2001/-kb/
+/player28.txt/1.1/Tue May 15 19:25:12 2001//
+/pterahead.mdo/1.1/Sun Oct 08 20:36:10 2000/-kb/
+/quaddama.qc/1.2/Tue Aug 07 16:18:28 2001//
+/quaddama.txt/1.1/Sun Oct 08 20:36:10 2000//
+/rackne.txt/1.1/Tue Jun 05 20:04:10 2001//
+/s_bubble.png/1.1/Thu Aug 02 16:44:54 2001/-kb/
+/s_bubble.qc/1.1/Thu Aug 02 16:44:54 2001//
+/s_bubble.txt/1.1/Fri Oct 27 09:12:56 2000//
+/s_explod.png/1.1/Thu Aug 02 16:44:54 2001/-kb/
+/s_explod.qc/1.1/Thu Aug 02 16:44:54 2001//
+/s_explod.txt/1.1/Sun Oct 08 20:36:10 2000//
+/s_light.png/1.1/Thu Aug 02 16:44:54 2001/-kb/
+/s_light.qc/1.1/Thu Aug 02 16:44:54 2001//
+/s_light.txt/1.1/Sun Oct 08 20:36:10 2000//
+/s_spike.qc/1.1/Wed Aug 15 02:01:30 2001//
+/soldier.qc/1.1/Wed Aug 15 20:01:44 2001//
+/soldier.txt/1.1/Fri Oct 27 09:12:56 2000//
+/spike.qc/1.1/Wed Aug 15 02:01:30 2001//
+/suit.qc/1.1/Wed Aug 15 02:01:30 2001//
+/teleport.qc/1.1/Wed Aug 15 02:01:30 2001//
+/toon.qc/1.1/Wed Aug 15 20:01:44 2001//
+/toon_player.qc/1.1/Tue May 15 19:25:12 2001//
+/toon_player1.ms3d/1.1/Tue May 15 19:25:12 2001/-kb/
+/toon_player1.txt/1.1/Tue May 15 19:25:12 2001//
+/v_axe.qc/1.1/Wed Aug 15 20:01:44 2001//
+/v_light.qc/1.1/Wed Aug 15 20:01:44 2001//
+/v_nail.qc/1.1/Wed Aug 15 20:01:44 2001//
+/v_nail2.qc/1.1/Wed Aug 15 20:01:44 2001//
+/v_rock.qc/1.1/Wed Aug 15 20:01:44 2001//
+/v_rock2.qc/1.1/Wed Aug 15 20:01:44 2001//
+/v_shot.qc/1.1/Wed Aug 15 20:01:44 2001//
+/v_shot2.qc/1.1/Wed Aug 15 20:01:44 2001//
+/w_g_key.qc/1.2/Tue Aug 07 16:18:28 2001//
+/w_s_key.qc/1.2/Tue Aug 07 16:18:28 2001//
+/wizard.qc/1.2/Tue Aug 07 16:18:28 2001//
+/wizard.txt/1.1/Sun Oct 08 20:36:12 2000//
+/zom_gib.qc/1.2/Tue Aug 07 16:18:28 2001//
+/zombie.qc/1.1/Wed Aug 15 20:01:46 2001//
+/zombietree.txt/1.1/Sun Oct 08 20:36:12 2000//
+D/armor////
+D/bolts////
+D/dog////
+D/enforcer////
+D/fire////
+D/gibs////
+D/keys////
+D/knight////
+D/misc////
+D/player////
+D/powerups////
+D/runes////
+D/soldier////
+D/weapons////
+D/wizard////
+D/zombietree////

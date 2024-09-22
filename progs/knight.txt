@@ -1,0 +1,29 @@
+Goatdemon
+Copyright (C) 2000  Phil Heil aka "Cyrus"
+
+You can do whatever you want with any of these models, as long as you give me credit for making them. I'd also like to see what changes you've made to the models, but I won't require you to do this.
+
+E-Mail: dot_mr@hotmail.com
+ICQ:    29164064
+
+Modeled off of the goatdemon in Diablo I, this model was made for my second attempt at a Quake Total Conversion, which in the end simply died away.  The goatdemon carries both a mace and a shield and includes a variety of attack sequences that were to go along with the gameplay of the TC. Otherwise, it has just one skin and all of the basic animations, since I was expecting to go by quantity over quality for the TC.
+
+CHANGES:
+
+10-25-00
+Seth Galbraith (sgalbrai@krl.org):
+created simplified version that replaces Quake knight (knight.mdl)
+(original model: http://www.planetquake.com/gg/fmp/cyrus/goatman.html)
+ * removed the following animation:
+   - frames 6 through 20 from "s" (stand)
+   - frames 3,6,9 and 12 from "r" (run)
+   - frames 1,3,7 and 14 from "ao" (run + attack)
+   - frames 7,10,11 and 14 from "ar" (attack)
+   - frames 2,4,6,10,12,14,16,20,22 and 24 from "w" (walk)
+   - other attacks, base
+ * added 5 stand frames at the end of "p" (pain)
+ * made "pa" (pain) from frames 2,3 and 6 of "p"
+ * made "k" (kneel) from frames 3 through 7 of "w"
+ * made "sb" (standing?) from frames 2,4,6 and 8 of "p"
+ * made "db" (death) from "d" by duplicating the last frame
+ * created head model (h_knight.mdl)
